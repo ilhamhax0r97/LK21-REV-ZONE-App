@@ -1,5 +1,5 @@
 # LK21-REV-ZONE-App With Dicord RPC
-The LK21 REV-ZONE wrapper that uses Discord RPC to show what you are watching using Rich Presence. Inspired by [discord-youtube] (https://github.com/BrianPetkovsek/discord-youtube)
+The LK21 REV-ZONE wrapper that uses Discord RPC to show what you are watching using Rich Presence. Inspired by discord-youtube (https://github.com/BrianPetkovsek/discord-youtube)
 
 # How to run 
 You have to install the dependencies. So, just run npm install in the repo's folder. Once it's done, run npm start to start the application.
@@ -12,7 +12,7 @@ Even if Discord is not opened, you can still use the app as a normal LK21 REV-ZO
 # Previews
 
 App : <br>
-![Browsing](https://i.imgur.com/bQoeoeb.png)
+![App](https://raw.githubusercontent.com/ilhamhax0r97/LK21-REV-ZONE-App/master/rev-zone_app.png)
 
-Watching a video: <br> 
-![Watching](https://i.imgur.com/tQvzLJs.png)
+RPC : <br> 
+![Watching](https://raw.githubusercontent.com/ilhamhax0r97/LK21-REV-ZONE-App/master/rev-zone_rpc.png)
