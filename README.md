@@ -1,7 +1,7 @@
 # LK21-REV-ZONE-App With Dicord RPC
 The LK21 REV-ZONE wrapper that uses Discord RPC to show what you are watching using Rich Presence. Inspired by [discord-youtube](https://github.com/BrianPetkovsek/discord-youtube)
 
-#Release App
+# Release App
 You can download a prebuilt installer from [releases](https://github.com/ilhamhax0r97/LK21-REV-ZONE-App/releases) if you want.
 
 # How to run 
